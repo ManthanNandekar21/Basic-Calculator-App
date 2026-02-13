@@ -37,4 +37,4 @@ A simple Android calculator application built using Android Studio that performs
 
 1. Clone the repository:
    ```bash
- https://github.com/ManthanNandekar21/Basic-Calculator-App.gitt
+   git clone https://github.com/ManthanNandekar21/Basic-Calculator-App.git
